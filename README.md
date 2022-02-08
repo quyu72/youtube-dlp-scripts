@@ -1,4 +1,4 @@
-# youtube-dlp-scripts
+# Youtube-DLP Scripts
 **[Youtube-DLP] (https://github.com/yt-dlp/yt-dlp) Scripts that will pretty much replace any downloader that exists out here.**
 
 I made the scripts because there weren't any scripts that are easy enough to understand for the general public.
