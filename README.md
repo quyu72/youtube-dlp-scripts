@@ -7,4 +7,3 @@ If you have any questions make sure you read the guides included in the released
 
 
 Why not [Youtube-DL](https://github.com/ytdl-org/youtube-dl)? Because Youtube-DLP in general has more features and supported websites than Youtube-DL.
-I am not responsible if your hard drive is gonna be filled out with 100TB of Youtube content.
