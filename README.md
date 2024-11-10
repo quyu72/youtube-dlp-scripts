@@ -1,4 +1,4 @@
 
-# **quyu's [yt-dlp](https://github.com/yt-dlp/yt-dlp) script pack**
+# **quyu's yt-dlp script pack**
 
 These are [yt-dlp](https://github.com/yt-dlp/yt-dlp) scripts written in batch that should be easy to understand and user-friendly.
