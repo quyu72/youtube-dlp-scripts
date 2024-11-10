@@ -12,3 +12,5 @@ List of scripts:
 - **Livestream** - scripts for downloading livestreams in real-time (mainly youtube livestreams)
 - **PlaylistMP3** - scripts for downloading music playlists
 - **Twitch Clips** - scripts for downloading Twitch clips
+
+Make sure to keep yt-dlp up-to-date!
