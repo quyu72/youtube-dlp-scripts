@@ -1,7 +1,7 @@
 
 # **quyu's yt-dlp script pack**
 
-The repository is under rework, so if there's something missing, sorry!
+_The repository is under rework, so if there's something missing, sorry!_
 
 These are [yt-dlp](https://github.com/yt-dlp/yt-dlp) scripts that should be easy to understand and user-friendly.
 
