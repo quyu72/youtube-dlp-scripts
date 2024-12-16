@@ -14,3 +14,16 @@ List of scripts:
 - **Twitch Clips** - scripts for downloading Twitch clips
 
 Make sure to keep yt-dlp up-to-date!
+
+###Installation
+----
+- Download [yt-dlp](https://github.com/yt-dlp/yt-dlp) and put it in a folder of your choice
+- Download [ffmpeg](https://github.com/GyanD/codexffmpeg/releases) and put in the same folder as yt-dlp
+- Right click on "My Computer" or "This PC", whatever it's called on Windows 10.
+- Click "Properties" > "Advanced system settings" > "Environment Variables..."
+- Double click on "Path" in system variables > "New"
+- Name the new variable "yt-dlp" and add the path to the yt-dlp folder
+- Click "Ok"and close all of the windows
+- Check if it works by launching the update script or by typing "yt-dlp" in the command prompt
+- If it works, congratulations, you got youtube-dlp working!
+
