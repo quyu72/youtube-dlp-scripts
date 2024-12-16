@@ -22,7 +22,5 @@ Make sure to keep yt-dlp up-to-date!
 - Click "Properties" > "Advanced system settings" > "Environment Variables..."
 - Double click on "Path" in system variables > "New"
 - Name the new variable "yt-dlp" and add the path to the yt-dlp folder
-- Click "Ok"and close all of the windows
+- Click "Ok" and close all of the windows
 - Check if it works by launching the update script or by typing "yt-dlp" in the command prompt
-- If it works, congratulations, you got youtube-dlp working!
-
