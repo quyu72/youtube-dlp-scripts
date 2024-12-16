@@ -15,7 +15,7 @@ List of scripts:
 
 Make sure to keep yt-dlp up-to-date!
 
-###Installation
+### Installation
 ----
 - Download [yt-dlp](https://github.com/yt-dlp/yt-dlp) and put it in a folder of your choice
 - Download [ffmpeg](https://github.com/GyanD/codexffmpeg/releases) and put in the same folder as yt-dlp
