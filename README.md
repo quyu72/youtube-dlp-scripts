@@ -24,3 +24,5 @@ Make sure to keep yt-dlp up-to-date!
 - Name the new variable "yt-dlp" and add the path to the yt-dlp folder
 - Click "Ok" and close all of the windows
 - Check if it works by launching the update script or by typing "yt-dlp" in the command prompt
+
+Note: you don't have to keep all of the scripts on your computer. Test the scripts and see which ones you like.
